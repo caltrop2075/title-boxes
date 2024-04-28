@@ -1,5 +1,8 @@
 # title-boxes
-boxes around centered text
+
+title boxes
+
+draw various boxes around centered text
 
 title-80.sh
 --------------------------------------------------------------------------------
